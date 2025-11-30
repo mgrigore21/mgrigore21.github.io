@@ -1,4 +1,4 @@
 title: My ML Engineering Blog
 description: >-
   Showcasing production machine learning and deep learning projects.
-theme: jekyll-theme-slate
+theme: minima # <-- Change this line
